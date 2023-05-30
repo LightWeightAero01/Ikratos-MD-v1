@@ -60,8 +60,8 @@ global.nameown = '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂
 
 
 /*============== CHATGPT ==============*/
-global.openAiapi = 'PASTE_YOUR_API_HERE'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = 'zPzslDYlDflL4At5hd7IT3BlbkFJcp7dPtwmRsd4snofxWTl'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'zPzslDYlDflL4At5hd7IT3BlbkFJcp7dPtwmRsd4snofxWTl'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 
 /*============== STAFF ==============*/
 global.owner = [
