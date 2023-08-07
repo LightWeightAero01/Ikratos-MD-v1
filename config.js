@@ -53,8 +53,8 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '923020103127' //Nomor Bot
-global.nomorown = '923020103127' //Nomor Owner
+global.nomorbot = '923405614773' //Nomor Bot
+global.nomorown = '923405614773' //Nomor Owner
 global.namebot = '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂𝒏 𝑴.𝑨𝒃𝒃𝒂𝒔 ' //Nama Bot
 global.nameown = '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂𝒏 𝑴.𝑨𝒃𝒃𝒂𝒔 🇵🇰' // Nama Owner
 
@@ -65,11 +65,11 @@ global.org = 'zPzslDYlDflL4At5hd7IT3BlbkFJcp7dPtwmRsd4snofxWTl'   // Get you Org
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923020103127', '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂𝒏 𝑴.𝑨𝒃𝒃𝒂𝒔 🎐', true] //don't change this name and number
-  ['923020103127', '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂𝒏 𝑴.𝑨𝒃𝒃𝒂𝒔 🎐', false] //Replace your name and number here
+  ['923405614773', '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂𝒏 𝑴.𝑨𝒃𝒃𝒂𝒔 🎐', true] //don't change this name and number
+  ['923405614773', '𝑭𝒐𝒍𝒍𝒐𝒘👑𝑭𝒃:𝑴.𝑨𝒓𝒔𝒍𝒂𝒏 𝑴.𝑨𝒃𝒃𝒂𝒔 🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['923020103127',''] //Don't replace this,If you want to add someone add any dev
+global.mods = ['923405614773',''] //Don't replace this,If you want to add someone add any dev
 global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 302 0103127'
+global.phn = '+92 340 5614773'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
